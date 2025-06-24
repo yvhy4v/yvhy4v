@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
+
 <!--
 **yvhy4v/yvhy4v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
