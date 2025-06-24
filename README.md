@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/517678812410937344?bg=18181b&theme=dark&showDisplayName=true)](https://discord.com/users/517678812410937344)
+[![Discord Presence](https://lanyard.cnrad.dev/api/517678812410937344?bg=0d1117&theme=dark&showDisplayName=true)](https://discord.com/users/517678812410937344)
 
 <!--
 **yvhy4v/yvhy4v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
